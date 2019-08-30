@@ -1,0 +1,2 @@
+Run ID,Name,Source Type,Source Name,User,Status,epsilon,learning_rate,num_layers,optimizer_name,acc,loss,val_acc,val_loss
+92adde357721457eb555a18949028d6f,,LOCAL,/home/david/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py,david,RUNNING,1e-07,0.001,6,RMSprop,0.5363772474898549,7.30973401398002,0.4251497014910875,8.154173308503841
